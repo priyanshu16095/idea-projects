@@ -1,0 +1,5 @@
+Optional is just a container for something either it contains something or not
+
+Problem it solves:
+helps in writing more robust and expressive code by providing a way to explicitly represents
+the absence of code without using 'null'

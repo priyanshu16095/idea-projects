@@ -1,0 +1,8 @@
+http://localhost:8000/contact/{id}
+http://localhost:8000/contact/allContacts
+http://localhost:8000/contact/add
+http://localhost:8000/contact/update
+http://localhost:8000/contact/delete/{id}
+http://localhost:8000/contact/count
+http://localhost:8000/contact/uploadImage
+http://localhost:8000/contact/image/{filename}
